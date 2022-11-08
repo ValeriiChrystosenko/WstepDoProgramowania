@@ -20,3 +20,15 @@ else:
 zestaw_1_2=[]
 zestaw_1_2=zestaw_1+zestaw_2
 print(zestaw_1_2)
+
+
+
+
+# #n = int(input())
+# x = 1
+# s = 0
+# while x <= n:
+#     p = int(input())
+#     s += p
+#     x += 1
+# print(s/n)
